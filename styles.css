@@ -1,0 +1,112 @@
+#head{
+    color: rgb(23, 87, 143);
+    font-weight: bolder;
+}
+.parallax1 {
+    /* The image used */
+    background-image: url("images/upnext.png");
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vw;
+  }
+  .hide{
+      opacity: 0.5;
+      background-color: #000;
+  }
+  .parallax2 {
+    /* The image used */
+    background-image: url("images/billlie.png");
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vw;
+  }
+  .hide{
+      opacity: 0.8;
+      background-color: #000;
+  }
+  .parallax3 {
+    /* The image used */
+    background-image: url("images/eilish.png");
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vw;
+  }
+.hide{
+    opacity: 0.8;
+    background-color: #000;
+}
+.parallax4 {
+    /* The image used */
+    background-image: url("images/billie 3.jpg");
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vw;
+  }
+.hide{
+    opacity: 0.8;
+    background-color: #000;
+}
+.parallax5 {
+    /* The image used */
+    background-image: url("images/bi.png");
+  
+    /* Set a specific height */
+    min-height: 500px;
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vw;
+  }
+.hide{
+    opacity: 0.8;
+    background-color: #000;
+}
+.parallax6 {
+  /* The image used */
+  background-image: url("images/billie.png");
+
+  /* Set a specific height */
+  min-height: 500px;
+
+  /* Create the parallax scrolling effect */
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vw;
+}
+.hide{
+  opacity: 0.8;
+  background-color: #000;
+}
